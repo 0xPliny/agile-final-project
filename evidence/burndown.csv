@@ -1,0 +1,9 @@
+checkpoint,remaining_story_points
+Sprint start,10
+Create: In Progress,10
+Create: Review/QA,10
+Retrieve: In Progress,10
+Create: Done,7
+Retrieve: Review/QA,7
+Update: In Progress,7
+Retrieve: Done / sprint end,5
